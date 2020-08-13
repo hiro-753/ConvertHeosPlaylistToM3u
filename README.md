@@ -4,16 +4,16 @@ Convert HEOS playlist to m3u format
 Based on the JSON type playlist (Playlist) obtained with the HEOS command
 Generate m3u type playlist with file path information added  
   
-[First argument]: JSON type playlist file path acquired by HEOS command
+[First argument]: JSON type playlist file path acquired by HEOS command  
  Dim PlayListFilePath As String = "D:\tmp\Playlist 1.txt"
 
-[Second argument]: ROOT folder path of media file
+[Second argument]: ROOT folder path of media file  
  Dim targetFolder As String = "F:\DATA\"
 
-[Third argument]: Cache file path to save MP3Tag information of media file
+[Third argument]: Cache file path to save MP3Tag information of media file  
  Dim MP3TagInfoFilePath As String = "F:\tmp\MP3FileTags.txt"  
   
- If the cache file does not exist, from the ROOT folder path of the media file
+ If the cache file does not exist, from the ROOT folder path of the media file  
  Created based on the information of all media files  
   
   
