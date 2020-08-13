@@ -1,0 +1,23 @@
+#COMMENT NOT_FOUND_MEDIA_FILE:1, タイトル=Suite No. 2 in B minor, BWV 1067 Badinerie アーティスト=Bach アルバム=The Best of J.S.BACH
+#COMMENT NOT_FOUND_MEDIA_FILE:2, タイトル=Oboe d'amore conc - BVW1055 - 03 Allegro アーティスト=Johann Sebastian Bach アルバム=Violin & Oboe Concertos (Virgin)
+#COMMENT NOT_FOUND_MEDIA_FILE:3, タイトル=Violin %26 Oboe conc - BVW1060 - 01 Allegro アーティスト=Johann Sebastian Bach アルバム=Violin & Oboe Concertos (Virgin)
+#COMMENT NOT_FOUND_MEDIA_FILE:4, タイトル=Violin %26 Oboe conc - BVW1060 - 03 Allegro アーティスト=Johann Sebastian Bach アルバム=Violin & Oboe Concertos (Virgin)
+#COMMENT NOT_FOUND_MEDIA_FILE:5, タイトル=Violin conc in Dm - BVW1052 - 03 Allegro アーティスト=Johann Sebastian Bach アルバム=Violin & Oboe Concertos (Virgin)
+#COMMENT NOT_FOUND_MEDIA_FILE:6, タイトル=Braniborsky Koncert C.1 F Dur Bwv 1046 Allegro アーティスト=Johann Sebastian Bach アルバム=Best of Bach
+#COMMENT NOT_FOUND_MEDIA_FILE:7, タイトル=Braniborsky Koncert C.2 F Dur Bwv 1047 Allegro アーティスト=Johann Sebastian Bach アルバム=Best of Bach
+#COMMENT NOT_FOUND_MEDIA_FILE:8, タイトル=Jesus Bleibet Meine Freude Bwv 147 アーティスト=Johann Sebastian Bach アルバム=Best of Bach
+#COMMENT NOT_FOUND_MEDIA_FILE:9, タイトル=Koncert Bwv 1043 Vivace アーティスト=Johann Sebastian Bach アルバム=Best of Bach
+#COMMENT NOT_FOUND_MEDIA_FILE:10, タイトル=Suita C.2 Bwv 1067 Badinerie アーティスト=Johann Sebastian Bach アルバム=Best of Bach
+#COMMENT NOT_FOUND_MEDIA_FILE:11, タイトル=Concerto for 2 harpsichords, strings %26 b.c. in C minor BWV 1060 - I Allegro アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 7
+#COMMENT NOT_FOUND_MEDIA_FILE:12, タイトル=Concerto for 2 harpsichords, strings %26 b.c. in C minor BWV 1060 - III Allegro アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 7
+#COMMENT NOT_FOUND_MEDIA_FILE:13, タイトル=Concerto for 2 violins, strings %26 b.c. in D minor BWV 1043 - I Vivace アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 9
+#COMMENT NOT_FOUND_MEDIA_FILE:14, タイトル=Concerto for 3 violins, strings %26 b.c. in D major BWV 1064 - III Allegro アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 5
+#COMMENT NOT_FOUND_MEDIA_FILE:15, タイトル=Concerto for 4 harpsichords, strings %26 b.c. in A minor BWV 1065 - VI Allegro アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 7
+#COMMENT NOT_FOUND_MEDIA_FILE:16, タイトル=Concerto for oboe, violin, strings %26 b.c. in D minor BWV 1060 - I Allegro アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 9
+#COMMENT NOT_FOUND_MEDIA_FILE:17, タイトル=Concerto for oboe, violin, strings %26 b.c. in D minor BWV 1060 - III Allegro アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 9
+#COMMENT NOT_FOUND_MEDIA_FILE:18, タイトル=Fuge in G major BWV 577 アーティスト=J.S. Bach アルバム=Organ Works Disc 14
+#COMMENT NOT_FOUND_MEDIA_FILE:19, タイトル=Harpsichord Concerto in F minor BWV 1056 - III Presto アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 7
+#COMMENT NOT_FOUND_MEDIA_FILE:20, タイトル=Menuet BWV Anh. 114 (Christian Petzold) アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 22
+#COMMENT NOT_FOUND_MEDIA_FILE:21, タイトル=Praludium BWV 846 アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 22
+#COMMENT NOT_FOUND_MEDIA_FILE:22, タイトル=Violin Concerto in D minor BWV 1052 - III Presto アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 5
+#COMMENT NOT_FOUND_MEDIA_FILE:23, タイトル=Violin Concerto in G minor BWV 1056 - III Allegro assai アーティスト=J.S. Bach アルバム=Orchestral Works & Chamber Music Disc 5
