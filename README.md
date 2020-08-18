@@ -30,7 +30,7 @@ Generate m3u type playlist with file path information added
      Create a folder called #Playlists#.
    * The file name of the m3u file is the playlist file extension specified in the first argument replaced with m3u.
 
-Please refer to the following blog for detailed explanation.
+Please refer to the following blog for detailed explanation.  
 https://ameblo.jp/nabezou3/entry-12616420663.html
 https://ameblo.jp/nabezou3/entry-12617340479.html
 
@@ -40,9 +40,9 @@ https://ameblo.jp/nabezou3/entry-12617340479.html
 * Addition of reference (assembly extension): Json.NET is a popular high-performance JSON framework for .NET
 
 ■ Reference site
-* DOBON.NET
+* DOBON.NET  
   https://dobon.net/vb/dotnet/file/getabsolutepath.html
-* Search or get the files under the folder to the lowest level
+* Search or get the files under the folder to the lowest level  
   http://jeanne.wankuma.com/tips/vb.net/directory/getfilesmostdeep.html
 
 ■ Correction history
