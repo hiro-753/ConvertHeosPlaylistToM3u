@@ -31,8 +31,8 @@ Generate m3u type playlist with file path information added
    * The file name of the m3u file is the playlist file extension specified in the first argument replaced with m3u.
 
 Please refer to the following blog for detailed explanation.  
-https://ameblo.jp/nabezou3/entry-12616420663.html
-https://ameblo.jp/nabezou3/entry-12617340479.html
+https://ameblo.jp/nabezou3/entry-12616420663.html  
+https://ameblo.jp/nabezou3/entry-12617340479.html  
 
 ■ Build environment
  VisualStudio VB.NET Windows Console Project
