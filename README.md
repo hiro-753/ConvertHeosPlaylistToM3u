@@ -17,25 +17,33 @@ Generate m3u type playlist with file path information added
  Created based on the information of all media files  
   
   
-■Processing overview  
+■ Overview  
 1. MP3Tag information of media files included in the specified folder and below
-   Collect the path information to the file in the cache file.
+   Collect the path information to each media files in the cache file.
    If the cache file exists, this process is skipped.
 
-2. Generate m3u format playlist from HEOS playlist
+2. Generate m3u format playlist from HEOS playlist.
    Compare with the playlist and MP3 Tag information (cache file),
-   If it matches, add it to the playlist in m3u format
+   If it matches, add it to the playlist in m3u format.
 
-   * The output folder of m3u model file is directly under the ROOT folder path specified by the second argument.
+   * The output folder of m3u file is directly under the ROOT folder path specified by the second argument.
      Create a folder called #Playlists#.
-   * The file name of the m3u model file is the playlist file specified by the first argument.
-     The extension is replaced with m3u.
+   * The file name of the m3u file is the playlist file extension specified in the first argument replaced with m3u.
 
+Please refer to the following blog for detailed explanation.
+https://ameblo.jp/nabezou3/entry-12616420663.html
+https://ameblo.jp/nabezou3/entry-12617340479.html
 
 ■ Build environment
  VisualStudio VB.NET Windows Console Project
 * Add Reference (COM): Microsoft Shell Controls And Automation
 * Addition of reference (assembly extension): Json.NET is a popular high-performance JSON framework for .NET
+
+■ Reference site
+* DOBON.NET
+  https://dobon.net/vb/dotnet/file/getabsolutepath.html
+* Search or get the files under the folder to the lowest level
+  http://jeanne.wankuma.com/tips/vb.net/directory/getfilesmostdeep.html
 
 ■ Correction history
 * 2020.08.11 Command line argument launch version  
